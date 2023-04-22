@@ -282,8 +282,7 @@
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/MohamedAlyMatar/MohamedAlyMatar/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/MohamedAlyMatar/MohamedAlyMatar/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 ------
