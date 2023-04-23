@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **strengthening my knowledge**
 
-- 👨‍💻 All of my projects are available [@MohamedAlyMatar](github.com/MohamedAlyMatar)
+- 👨‍💻 All of my projects are available [@MohamedAlyMatar](https://github.com/MohamedAlyMatar?tab=repositories)
 
 - 🌐 And here you will find my **personal website**
 
@@ -89,8 +89,7 @@
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
   <a href="" target="_blank"> 
-    <img src="https://img.shields.io/badge/Spline-3DC8C5?style=for-the-badge&logoColor=white
-"
+    <img src="https://img.shields.io/badge/Spline-3DC8C5?style=for-the-badge&logoColor=white"
       alt="spline"/>
   </a>
 </p>
