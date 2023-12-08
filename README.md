@@ -131,11 +131,11 @@
 </div>
 
 ----
-
-<h2 style="margin: 5px 10px;">🐍 Here's a snake eating my contributions XD</h2> 
-
-![Snake animation](https://github.com/MohamedAlyMatar/MohamedAlyMatar/blob/output/github-contribution-grid-snake.svg)
-
+## 🐍 Here's a snake eating my contributions XD
+	
+<p align = "center">
+	<img src = "https://github.com/MohamedAlyMatar/MohamedAlyMatar/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 ----
 
 Credit: [MohamedAlyMatar](https://github.com/MohamedAlyMatar)
