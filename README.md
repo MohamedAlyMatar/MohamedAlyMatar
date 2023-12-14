@@ -132,10 +132,6 @@
 
 ----
 ## 🐍 Here's a snake eating my contributions XD
-	
-<p align = "center">
-	<img src = "https://github.com/MohamedAlyMatar/MohamedAlyMatar/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-----
+(https://github.com/MohamedAlyMatar/MohamedAlyMatar/blob/output/github-contribution-grid-snake.svg)
 
 Credit: [MohamedAlyMatar](https://github.com/MohamedAlyMatar)
