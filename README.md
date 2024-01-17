@@ -2,28 +2,24 @@
   <img src="src/imgs/mylogo.png" alt="My Logo" width="100" height="100">
 </p>
 
-<h1 align="center">Hello world! I'm Mohamed Matar <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hello Humans! I'm Mohamed Matar <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate CESS Student ready to make an impact</h3>
 
 <br>
 
-- 🔭 I’m currently **working on improving myself in the Data Science field**
+- 🌱 I am a **Senior-2 CESS student at the Faculty of Engineering - Ain Shams University**
 
-- 🌱 I am a **Senior-1 at Faculty of Engineering at Ain Shams University**
+- 🔭 I’m currently **working to improve myself in the field of Data Science**
 
-- 👨‍💻 I love to **participate and solve problem solving questions**
+- 👨‍💻 I love to **participate in coding competitions and hackathons**
 
-- 👯 I’m looking to collaborate on **Machine learning Projects**
-
-- 🤝 I’m looking for help with **strengthening my knowledge**
+- 🤝 I’m looking for **internships and job opportunities** and maybe collaborations in open sources
 
 - 👨‍💻 All of my projects are available [@MohamedAlyMatar](https://github.com/MohamedAlyMatar?tab=repositories)
 
-- 🌐 And here you will find my **personal website**
+<!-- - 🌐 And here you will find my **personal website** -->
 
 <!-- - 💬 Ask me about **System Designs and Philosophy 😆** -->
-
-- ⚡ Fun fact **Coding is a way of life :)**
 
 ---
 
@@ -98,8 +94,7 @@
 <p align="center">
 <div style="margin-top:10px" align="center">
     <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white
-" alt="codeforces"/>
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/>
     </a>
     <a href="https://leetcode.com/mohamedalymatar2001/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
