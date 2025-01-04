@@ -7,13 +7,13 @@
 
 <br>
 
-- 🌱 I am a **Senior-2 CESS student at the Faculty of Engineering - Ain Shams University**
+- 🌱 I am a **Fresh Gradute with a Bsc in Computer Engineering at the Faculty of Engineering - Ain Shams University**
 
 - 🔭 I’m currently **working to improve myself in the field of Data Science**
 
-- 👨‍💻 I love to **participate in coding competitions and hackathons**
+- 👨‍💻 I love to **participate in competitions and hackathons**
 
-- 🤝 I’m looking for **internships and job opportunities** and maybe collaborations in open sources
+- 🤝 I’m looking for **job opportunities and projects to work on** and maybe collaborations in open sources
 
 - 👨‍💻 All of my projects are available [@MohamedAlyMatar](https://github.com/MohamedAlyMatar?tab=repositories)
 
